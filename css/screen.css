@@ -1,0 +1,62 @@
+
+body{
+	background-image: url(images/backgrounds/image7smalluzunparalel.png);
+	background-image: cover;
+}
+
+.arkaplan {
+	
+	padding-top: 20px;
+
+}
+
+.baslik {
+
+	background-color: rgba(0,0,0, 0.4);
+
+}
+
+.siteLogosu{
+	max-width: 100%;
+	height: auto
+}
+
+/* ****************************************** 	*/
+/* Site Navigation 								*/
+/* ****************************************** 	*/
+.site-nav {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.site-nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+.site-nav li {
+	list-style: none;
+	float: left;
+	margin-right: 5px;
+}
+
+.site-nav a {
+	display: block;
+	color: #FFF;
+	padding: 5px 10px;
+	background-color: #2d3338;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, .20);
+	border: 1px solid #647583;
+	border-radius: 5px 5px 2px 2px;
+}
+
+.site-nav a:hover {
+	background-color: #3d617c;
+
+	border: 1px solid #647583;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, .50);
+	border-radius: 10px 10px 1px 1px;
+}
+/* ****************************************** 	*/
+/* Site Navigation Sonu							*/
+/* ****************************************** 	*/
